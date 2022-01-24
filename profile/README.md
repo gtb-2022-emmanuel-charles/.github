@@ -3,7 +3,7 @@ My name is Charles, I am  software engineering student at Wuhan University. I ha
 
 
 ![enter image description here](https://avatars.githubusercontent.com/u/46445613?v=4)
-*(I shameless copied my github profile picture url and pasted here.🤭)*
+*(I shameless copied my github profile picture url and pasted it here.🤭)*
 
 
 ## Get in touch

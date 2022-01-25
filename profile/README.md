@@ -9,7 +9,7 @@ My name is Charles, I am  software engineering student at Wuhan University. I ha
 ## Get in touch
 I love making friends and bore them by talking about technology all day long. Get in touch and convince me why I should use spaces instead of tabs. 
 
-Wechat: Hybridph4ntom\
+Wechat: hybridph4ntom\
 Phone: +86 131 6467 7385\
 Email: emmachalz745@outlook.com\
 LinkedIn: https://www.linkedin.cn/injobs/in/emma-chalz-9a7577192
